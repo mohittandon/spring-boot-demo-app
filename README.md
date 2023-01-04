@@ -16,7 +16,7 @@ sudo yum install git -y
 Download the spring-boot application from repository at any specific location
 
 ```bash
-sudo git clone https://github.com/TheCloudWorld/spring-boot-demo-app.git
+sudo git clone https://github.com/mohittandon/spring-boot-demo-app.git
 ```
 
 ## Step-3
